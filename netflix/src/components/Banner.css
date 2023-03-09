@@ -1,0 +1,15 @@
+.banner{
+    height:650px;
+    object-fit: contain;
+}
+.banner-content{
+    padding-top: 450px;
+    margin-left: 20px;
+}
+.banner-title{
+    font-size: 40px;
+    font-weight: 600;
+}
+.banner-des{
+    line-height: 28px;
+}
